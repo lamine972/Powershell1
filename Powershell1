@@ -17,7 +17,7 @@ Get-Help Get-Help
 Get-Help Get-History
 
 # Création d'alias (alias)
-Get-Help Set-Alias
+Get-Help Get-Alias
 
 # Affichage du contenu des fichiers (cat)
 Get-Help Get-Content
